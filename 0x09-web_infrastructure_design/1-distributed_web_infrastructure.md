@@ -2,8 +2,7 @@
 
 ![Image of a distributed web infrastructure](1-distributed_web_infrastructure.jpg)
 
-[Visit Board](https://github.com/Gifted-Gift/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/1-distributed_web_infrastructure.jpg
-)
+[Visit Board](https://github.com/ineptech1/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/images/1-distributed_web_infrastructure.jpg)
 
 ## Description
 
